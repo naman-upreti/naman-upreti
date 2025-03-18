@@ -1,7 +1,19 @@
 # 👋 Hey there, I'm Noxup!  
 
 ### 🚀 About Me  
-I'm a passionate **Software Developer** currently pursuing **Computer Science and Engineering (CSE) with a specialization in Data Science** at **New Horizon College of Engineering**. I thrive on building **AI-driven applications, full-stack web platforms, and intelligent fitness solutions**.  
+I'm a passionate Software Developer currently pursuing Computer Science and Engineering (CSE) with a specialization in Data Science at New Horizon College of Engineering. I thrive on building AI-driven applications, full-stack web platforms, and intelligent fitness solutions.  
+
+
+### 🌱 Currently Learning  
+- **LangChain & AI Agents 🤖**  
+- **Advanced Data Structures & Algorithms 📚**  
+- **Cloud Computing (Google Cloud & AWS) ☁️**  
+- **Full-Stack Development (Django + React) 🛠️**  
+- **Stock Market & Financial Analysis 📈**  
+- **DevOps (Ansible, CI/CD, Kubernetes) ⚙️**  
+- **Computer Vision & OpenCV 🖼️**  
+- **AI-Powered Chatbots 💬**  
+
 
 ## 🚀 Tech Stack  
 
@@ -39,14 +51,9 @@ I'm a passionate **Software Developer** currently pursuing **Computer Science an
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-### 🌱 Currently Learning  
-- Generation of AI Agents and Working with them 
-- LangChain for AI-powered applications  
-- Advanced Data Structures & Algorithms (DSA)  
-- Financial & Stock Markets 📈  
 
 ### 💡 Let's Collaborate!  
-I'm open to collaborating on:  
+I'm open to collaborating on the following:  
 - AI & ML-based applications  
 - Full-stack web projects  
 - Open-source contributions  
