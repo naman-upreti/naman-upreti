@@ -39,14 +39,8 @@ I'm a passionate **Software Developer** currently pursuing **Computer Science an
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-
-### 💡 What I'm Working On  
-🔹 **FitBot** – An AI-powered fitness chatbot with a modern UI  
-🔹 **CardioCrib AI** – A smart real estate platform for fitness enthusiasts  
-🔹 **FitFuel** – A next-gen e-commerce platform for fitness gear  
-🔹 **VirtualOS Lab** – A web-based interactive Linux OS simulation  
-
 ### 🌱 Currently Learning  
+- Generation of AI Agents and Working with them 
 - LangChain for AI-powered applications  
 - Advanced Data Structures & Algorithms (DSA)  
 - Financial & Stock Markets 📈  
