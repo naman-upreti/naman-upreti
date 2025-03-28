@@ -62,7 +62,7 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 ---
 
 ## **📚 Top Technologies**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxup&layout=compact&theme=radical)](https://github.com/Noxup)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=radical)](https://github.com/Noxup)
 
 ---
 
@@ -71,7 +71,7 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 🔹 **[Project 2 Name](https://github.com/Noxup/project-2)** – Short description  
 🔹 **[Project 3 Name](https://github.com/Noxup/project-3)** – Short description  
 
-📌 **More Projects:** [Click Here](https://github.com/Noxup?tab=repositories)  
+📌 **More Projects:** [Click Here](https://github.com/naman-upreti?tab=repositories)  
 
 ---
 
@@ -79,7 +79,7 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 💼 **Portfolio:** [Coming Soon...]  
 💬 **LinkedIn:** [Noxup](https://www.linkedin.com/in/Noxup)  
 🐦 **Twitter/X:** [@Noxup](https://twitter.com/Noxup)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [your.email@example.com](mailto:@gmail.com)  
 
 ---
 
@@ -92,14 +92,14 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 If you like my work, consider **starring** ⭐ some of my repositories or **buying me a coffee** ☕!  
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Noxup" target="_blank">
+  <a href="https://www.buymeacoffee.com/naman-upreti" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 
-### **🔥 Made with ❤️ by [Noxup](https://github.com/Noxup) 🚀**  
+### **🔥 Made with ❤️ by [naman-upreti](https://github.com/naman-upreti) 🚀**  
 
 ---
 
