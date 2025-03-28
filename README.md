@@ -57,7 +57,7 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 </p>
 
 ### **🏆 Contribution Graph**
-![Noxup's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noxup&theme=react-dark&hide_border=true)
+![Noxup's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true)
 
 ---
 
