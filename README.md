@@ -1,23 +1,29 @@
-# 👋 Hey there, I'm Noxup!  
+Here's an **advanced and attractive GitHub README** with **dynamic visuals, animations, GitHub stats, GIFs, and badges** to showcase your profile in style! 🚀  
 
-### 🚀 About Me  
-I'm a passionate Software Developer currently pursuing Computer Science and Engineering (CSE) with a specialization in Data Science at New Horizon College of Engineering. I thrive on building AI-driven applications, full-stack web platforms, and intelligent fitness solutions.  
+---
 
+## **🔥 Hi there, I'm [Noxup](https://github.com/Noxup) 👋**  
+**🚀 AI-Driven Software Developer | 🤖 ML & AI Enthusiast | 📊 Data Science Explorer**  
 
-### 🌱 Currently Learning  
-- **LangChain & AI Agents 🤖**  
-- **Advanced Data Structures & Algorithms 📚**  
-- **Cloud Computing (Google Cloud & AWS) ☁️**  
-- **Full-Stack Development (Django + React) 🛠️**  
-- **Stock Market & Financial Analysis 📈**  
-- **DevOps (Ansible, CI/CD, Kubernetes) ⚙️**  
-- **Computer Vision & OpenCV 🖼️**  
-- **AI-Powered Chatbots 💬**  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
 
+### **📌 About Me**  
+- 🎓 **CSE | Data Science** at **New Horizon College of Engineering**  
+- 💡 Passionate about **AI-Driven Applications, Full-Stack Web Platforms & Intelligent Fitness Solutions**  
+- 🔭 **Currently Learning:**  
+  - 🤖 **LangChain & AI Agents**  
+  - 📚 **Advanced Data Structures & Algorithms**  
+  - ☁️ **Cloud Computing (AWS & GCP)**  
+  - 🛠️ **Django + React Full-Stack Development**  
+  - 📈 **Stock Market & Financial Analysis**  
+  - ⚙️ **DevOps (Ansible, CI/CD, Kubernetes)**  
+  - 🖼️ **Computer Vision & OpenCV**  
+  - 💬 **AI-Powered Chatbots**  
 
-## 🚀 Tech Stack  
+---
 
-### 🌐 Frontend  
+## **🚀 Tech Stack**  
+### **🌐 Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -25,45 +31,81 @@ I'm a passionate Software Developer currently pursuing Computer Science and Engi
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
 
-### ⚙️ Backend  
+### **⚙️ Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 
-### 🛢️ Database  
+### **🛢️ Database**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### ☁️ Cloud & Deployment  
+### **☁️ Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-
-
-### 🧠 AI & ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=chainlink&logoColor=white)  
-
-### 🛠️ Dev Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
-
-### 💡 Let's Collaborate!  
-I'm open to collaborating on the following:  
-- AI & ML-based applications  
-- Full-stack web projects  
-- Open-source contributions  
-
-### 📫 Get in Touch  
-💌 Email: **namanupreti02@gmail.com**  
- 
-
-⚡ **Fun Fact**: I believe **AI + Fitness** is the future, and I'm building something awesome in that space!  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 
 ---
 
-**Let's code, build, and innovate! 🚀**
+## **📊 GitHub Stats**  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Noxup&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Noxup&theme=radical" />
+</p>
+
+### **🏆 Contribution Graph**
+![Noxup's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noxup&theme=react-dark&hide_border=true)
+
+---
+
+## **📚 Top Technologies**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxup&layout=compact&theme=radical)](https://github.com/Noxup)
+
+---
+
+## **🛠️ Projects & Open Source Contributions**
+🔹 **[Project 1 Name](https://github.com/Noxup/project-1)** – Short description  
+🔹 **[Project 2 Name](https://github.com/Noxup/project-2)** – Short description  
+🔹 **[Project 3 Name](https://github.com/Noxup/project-3)** – Short description  
+
+📌 **More Projects:** [Click Here](https://github.com/Noxup?tab=repositories)  
+
+---
+
+## **📫 How to Reach Me**
+💼 **Portfolio:** [Coming Soon...]  
+💬 **LinkedIn:** [Noxup](https://www.linkedin.com/in/Noxup)  
+🐦 **Twitter/X:** [@Noxup](https://twitter.com/Noxup)  
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+
+---
+
+## **🚀 Fun Fact**
+💡 *"AI is not going to replace developers, but developers who use AI will replace those who don't!"*  
+
+---
+
+## **💖 Support Me**  
+If you like my work, consider **starring** ⭐ some of my repositories or **buying me a coffee** ☕!  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Noxup" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+### **🔥 Made with ❤️ by [Noxup](https://github.com/Noxup) 🚀**  
+
+---
+
+### 🎯 **Next Steps:**  
+- **🚀 Deploy a Portfolio Website** (Let me know if you need help with this!)  
+- **📈 Optimize GitHub ReadMe further (e.g., live AI demos, widgets, etc.)**  
+- **💡 Create a Personal Blog** (Technical blogs on AI, DevOps, Full-Stack, etc.)  
+
+Let me know if you want **any modifications or more interactive elements**! 😊
