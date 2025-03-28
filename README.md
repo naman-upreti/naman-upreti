@@ -64,14 +64,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=radical)](https://github.com/Noxup)
 
 ---
-
-## **🛠️ Projects & Open Source Contributions**
-🔹 **[Project 1 Name](https://github.com/Noxup/project-1)** – Short description  
-🔹 **[Project 2 Name](https://github.com/Noxup/project-2)** – Short description  
-🔹 **[Project 3 Name](https://github.com/Noxup/project-3)** – Short description  
-
-📌 **More Projects:** [Click Here](https://github.com/naman-upreti?tab=repositories)  
-
+📌 **Projects:** [Click Here](https://github.com/naman-upreti?tab=repositories)  
 ---
 
 ## **📫 How to Reach Me**
