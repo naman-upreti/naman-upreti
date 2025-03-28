@@ -52,8 +52,8 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 
 ## **📊 GitHub Stats**  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Noxup&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Noxup&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=radical" />
 </p>
 
 ### **🏆 Contribution Graph**
