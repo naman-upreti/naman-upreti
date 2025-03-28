@@ -1,8 +1,7 @@
-Here's an **advanced and attractive GitHub README** with **dynamic visuals, animations, GitHub stats, GIFs, and badges** to showcase your profile in style! 🚀  
 
 ---
 
-## **🔥 Hi there, I'm [Noxup](https://github.com/Noxup) 👋**  
+## **🔥 Hi there, I'm [Naman](https://github.com/naman-upreti) 👋**  
 **🚀 AI-Driven Software Developer | 🤖 ML & AI Enthusiast | 📊 Data Science Explorer**  
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
