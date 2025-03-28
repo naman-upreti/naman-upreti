@@ -77,9 +77,8 @@ Here's an **advanced and attractive GitHub README** with **dynamic visuals, anim
 
 ## **📫 How to Reach Me**
 💼 **Portfolio:** [Coming Soon...]  
-💬 **LinkedIn:** [Noxup](https://www.linkedin.com/in/Noxup)  
-🐦 **Twitter/X:** [@Noxup](https://twitter.com/Noxup)  
-📧 **Email:** [your.email@example.com](mailto:@gmail.com)  
+💬 **LinkedIn:** [naman-upreti](https://www.linkedin.com/in/naman-upreti)  
+📧 **Email:** [your.email@example.com](mailto:namanupreti02@gmail.com)  
 
 ---
 
@@ -102,10 +101,3 @@ If you like my work, consider **starring** ⭐ some of my repositories or **buyi
 ### **🔥 Made with ❤️ by [naman-upreti](https://github.com/naman-upreti) 🚀**  
 
 ---
-
-### 🎯 **Next Steps:**  
-- **🚀 Deploy a Portfolio Website** (Let me know if you need help with this!)  
-- **📈 Optimize GitHub ReadMe further (e.g., live AI demos, widgets, etc.)**  
-- **💡 Create a Personal Blog** (Technical blogs on AI, DevOps, Full-Stack, etc.)  
-
-Let me know if you want **any modifications or more interactive elements**! 😊
