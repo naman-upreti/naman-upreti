@@ -70,7 +70,7 @@
 ## **📫 How to Reach Me**
 💼 **Portfolio:** [Coming Soon...]  
 💬 **LinkedIn:** [naman-upreti](https://www.linkedin.com/in/naman-upreti)  
-📧 **Email:** [your.email@example.com](mailto:namanupreti02@gmail.com)  
+📧 **Email:** [namanupreti02@gmail.com](mailto:namanupreti02@gmail.com)  
 
 ---
 
