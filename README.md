@@ -140,7 +140,11 @@ If you find my work useful, consider **starring ⭐ my repositories** or **buyin
 </p>
 
 ---
-
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/naman-upreti/naman-upreti/blob/output/github-contribution-grid-snake.svg" />
+</p>
+---
 ### 📌 **If you liked my profile, don’t forget to ⭐ my repositories!**  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naman-upreti&label=Profile%20Views&color=blueviolet&style=flat" />
