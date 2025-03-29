@@ -27,14 +27,12 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/naman-upreti/gif_readme/main/working-no-idea.gif" width="400px"/>
-
-      <br>
-      <blockquote>
-        <b>🔥 "I have infinite chances!" 🔥</b>
-      </blockquote>
+      <br><br>
+      <h2><b>🔥 Limitless! 🔥</b></h2>
     </td>
   </tr>
 </table>
+
 
 
 ---
