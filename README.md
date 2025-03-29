@@ -9,26 +9,31 @@ Here’s your **visually stunning, well-aligned, and interactive GitHub README**
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=400&lines=Hey,+I'm+Naman!+👋;ML+%26+NLP+Developer;AI+Enthusiast;">
 </h1>
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
-</p>
-
 ---
-
-## **📌 About Me**  
-- 🎓 **CSE | Data Science** at **New Horizon College of Engineering**  
-- 💡 Passionate about **AI-Driven Applications, Full-Stack Web Platforms & Intelligent Fitness Solutions**  
-- 🔭 **Currently Learning:**  
-  - 🤖 **LangChain & AI Agents**  
-  - 📚 **Advanced Data Structures & Algorithms**  
-  - ☁️ **Cloud Computing (AWS & GCP)**  
-  - 🛠️ **Django + React Full-Stack Development**  
-  - 📈 **Stock Market & Financial Analysis**  
-  - ⚙️ **DevOps (Ansible, CI/CD, Kubernetes)**  
-  - 🖼️ **Computer Vision & OpenCV**  
-  - 💬 **AI-Powered Chatbots**  
+<table>
+  <tr>
+    <td>
+      <h2>📌 About Me</h2>
+      <ul>
+        <li>🎓 <b>CSE | Data Science</b> at <b>New Horizon College of Engineering</b></li>
+        <li>💡 Passionate about <b>AI-Driven Applications, NLP & Intelligent Systems</b></li>
+        <li>🔭 <b>Currently Learning:</b>
+          <ul>
+            <li>🤖 <b>LangChain & AI Agents</b></li>
+            <li>📚 <b>Advanced Data Structures & Algorithms</b></li>
+            <li>☁️ <b>Cloud Computing (AWS & GCP)</b></li>
+            <li>🖼️ <b>Computer Vision & OpenCV</b></li>
+            <li>📈 <b>Stock Market & Financial Analysis</b></li>
+            <li>💬 <b>AI-Powered Chatbots</b></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
