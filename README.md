@@ -60,32 +60,34 @@
 </p>
 
 ---
+## **📊 GitHub Stats & Contributions**
 
-## **📊 GitHub Stats**  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h2>🏆 Contribution Graph</h2>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <h2>📊 GitHub Stats</h2>
+      <img width="90%" src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <h2>🔥 GitHub Streak</h2>
+      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
 
-### **🏆 Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" />
-</p>
-
-### **🔥 GitHub Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=react-dark&hide_border=true" />
-</p>
-
-### **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=react-dark&hide_border=true" />
-</p>
-
-### **🌟 GitHub Heatmap**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=react-dark&hide_border=true" />
-</p>
+  <tr>
+    <td colspan="2" align="center">
+      <h2>🌟 GitHub Heatmap</h2>
+      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ---
