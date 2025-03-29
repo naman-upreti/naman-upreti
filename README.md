@@ -86,12 +86,12 @@ If you enjoy my work, consider supporting me by **starring ⭐ my repositories**
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
-
+---
 📌 **If you found my projects useful, don’t forget to give them a ⭐!**  
 
 ### 🎯 **Profile Stats**  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naman-upreti&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>  
-
+---
 ✨ **Made with ❤️ & Passion by Naman Upreti** 🚀
