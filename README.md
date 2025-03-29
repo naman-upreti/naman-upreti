@@ -6,7 +6,7 @@ Here’s your **visually stunning, well-aligned, and interactive GitHub README**
 **🚀 AI-Driven Software Developer | 🤖 ML & AI Enthusiast | 📊 Data Science Explorer**  
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=350&lines=Hey,+I'm+Naman!+👋;ML+%26+NLP+Developer+%7C+AI+Enthusiast;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=400&lines=Hey,+I'm+Naman!+👋;ML+%26+NLP+Developer;AI+Enthusiast;">
 </h1>
 
 
