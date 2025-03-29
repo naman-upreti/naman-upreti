@@ -69,7 +69,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" />
     </td>
   </tr>
-  
+
   <tr>
     <td align="center">
       <h2>📊 GitHub Stats</h2>
@@ -83,11 +83,20 @@
 
   <tr>
     <td colspan="2" align="center">
-      <h2>🌟 GitHub Heatmap</h2>
+      <h2>🌟 Most Used Languages</h2>
       <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <h2>📅 GitHub Contribution Heatmap</h2>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naman-upreti&theme=tokyonight&utcOffset=8" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-upreti&theme=tokyonight" />
+    </td>
+  </tr>
 </table>
+
 
 
 ---
