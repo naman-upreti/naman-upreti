@@ -1,0 +1,49 @@
+name: 🐍 Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📂 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history to generate the snake graph correctly
+
+      - name: 🛠️ Setup Cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-snake-cache
+          restore-keys: |
+            ${{ runner.os }}-snake-cache
+
+      - name: 🐍 Generate Snake SVG
+        uses: Platane/snk@master
+        id: snake
+        with:
+          github_user_name: naman-upreti
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+
+      - name: 📤 Commit & Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add dist/ || echo "Nothing to commit"
+          git commit -m "Updated Snake Contribution Graph 🐍" || exit 0
+          git push
+
+      - name: ✅ Workflow Success
+        if: success()
+        run: echo "🎉 Snake Graph Successfully Generated!"
+
+      - name: ❌ Handle Errors
+        if: failure()
+        run: echo "⚠️ Error in generating snake graph. Please check logs."
