@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=400&lines=Hey,+I'm+Naman!+👋;ML+%26+NLP+Developer;AI+Enthusiast;">
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naman-upreti/gif_readme/main/working-no-idea.gif" width="400px"/>
-</p>
 
 ---
 ---
