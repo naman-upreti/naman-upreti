@@ -29,8 +29,9 @@ Here’s your **visually stunning, well-aligned, and interactive GitHub README**
         </li>
       </ul>
     </td>
-    <td>
-         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU4YjVmNzRjOWM4N2VkMTMzMWNmZGM3NzY5NDA0NmI4NDMyYjY4OCZjdD1n/oZEBLugoTthxQ/giphy.gif" width="350px"/>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU4YjVmNzRjOWM4N2VkMTMzMWNmZGM3NzY5NDA0NmI4NDMyYjY4OCZjdD1n/oZEBLugoTthxQ/giphy.gif" width="300px"/><br>
+      <b>"I have infinite chances!"</b> 🔥
     </td>
   </tr>
 </table>
