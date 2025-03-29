@@ -30,7 +30,7 @@ Here’s your **visually stunning, well-aligned, and interactive GitHub README**
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350px"/>
+         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU4YjVmNzRjOWM4N2VkMTMzMWNmZGM3NzY5NDA0NmI4NDMyYjY4OCZjdD1n/oZEBLugoTthxQ/giphy.gif" width="350px"/>
     </td>
   </tr>
 </table>
