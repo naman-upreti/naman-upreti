@@ -9,6 +9,11 @@
 
 ---
 
+## **🚀 Hi there, I'm [Naman Upreti](https://github.com/naman-upreti) 👋**  
+**🤖 AI-Driven Software Developer | 📊 ML & NLP Enthusiast | 🚀 Data Science Explorer**  
+
+---
+
 ## **📌 About Me**
 <table>
   <tr>
@@ -31,7 +36,7 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/naman-upreti/gif_readme/main/working-no-idea.gif" width="400px"/>
       <br><br>
-      <h2><b>🔥 Limitless! 🔥</b></h2>
+      <h2><b>🔥 Unstoppable! 🔥</b></h2>
     </td>
   </tr>
 </table>
@@ -75,6 +80,12 @@
 </p>
 
 ---
+
+## **🐍 GitHub Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naman-upreti/naman-upreti/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## **💖 Support Me**
