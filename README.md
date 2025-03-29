@@ -107,7 +107,11 @@
 </p>
 
 ---
-
+### 💡 Inspiration  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+---
 ## **🚀 Featured Projects**
 
 📌 **Projects:** [Click Here](https://github.com/naman-upreti?tab=repositories)  
