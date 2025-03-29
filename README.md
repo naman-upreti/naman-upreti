@@ -77,21 +77,27 @@
 
 ---
 
-
-### 💖 **Support Me**
-If you enjoy my work, consider supporting me by **starring ⭐ my repositories** or buying me a coffee! Your support fuels my passion for AI & NLP! 🚀  
+## 💖 **Support Me**  
+If you enjoy my work, consider supporting me by **starring ⭐ my repositories** or **buying me a coffee!**  
+Your support fuels my passion for AI & NLP! 🚀  
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/naman-upreti" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
+
 ---
+
 📌 **If you found my projects useful, don’t forget to give them a ⭐!**  
 
 ### 🎯 **Profile Stats**  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naman-upreti&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>  
+
 ---
-✨ **Made with ❤️ & Passion by Naman Upreti** 🚀
+
+<p align="center">
+  <b>✨ Made with ❤️ & Passion by <a href="https://github.com/naman-upreti">Naman Upreti</a> 🚀</b>
+</p>
