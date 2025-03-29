@@ -26,11 +26,16 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300px"/><br>
-      <b>"I have infinite chances!"</b> 🔥
+      <img src="https://raw.githubusercontent.com/naman-upreti/gif_readme/main/working-no-idea.gif" width="400px"/>
+
+      <br>
+      <blockquote>
+        <b>🔥 "I have infinite chances!" 🔥</b>
+      </blockquote>
     </td>
   </tr>
 </table>
+
 
 ---
 
