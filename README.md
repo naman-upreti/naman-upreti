@@ -1,7 +1,3 @@
-Here’s your **visually stunning, well-aligned, and interactive GitHub README** with an **animated header, sleek GitHub stats, contribution graph, tech stack icons, and project showcases.** 🚀🔥  
-
----
-
 ## **🔥 Hi there, I'm [Naman Upreti](https://github.com/naman-upreti) 👋**  
 **🚀 AI-Driven Software Developer | 🤖 ML & AI Enthusiast | 📊 Data Science Explorer**  
 
