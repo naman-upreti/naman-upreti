@@ -1,10 +1,14 @@
-<!-- Profile Header -->
-<h1 align="center">
+<!-- 🚀 Welcome Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=400&lines=Hey,+I'm+Naman!+👋;ML+%26+NLP+Developer;AI+Enthusiast;">
-</h1>
+</p>
 
+<!-- 🌟 Animated Separator -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naman-upreti/gif_readme/main/animated-line-break.gif" width="80%">
+</p>
 
----
 ---
 
 ## **📌 About Me**
