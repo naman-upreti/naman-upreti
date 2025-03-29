@@ -72,6 +72,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" />
 </p>
 
+### **🔥 GitHub Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=react-dark&hide_border=true" />
+</p>
+
+### **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=react-dark&hide_border=true" />
+</p>
+
+### **🌟 GitHub Heatmap**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=react-dark&hide_border=true" />
+</p>
+
+
 ---
 
 ## **🏅 GitHub Profile Trophy**  
