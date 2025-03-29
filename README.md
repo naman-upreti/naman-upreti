@@ -8,10 +8,6 @@
 </p>
 
 ---
-
-## **🚀 Hi there, I'm [Naman Upreti](https://github.com/naman-upreti) 👋**  
-**🤖 AI-Driven Software Developer | 📊 ML & NLP Enthusiast | 🚀 Data Science Explorer**  
-
 ---
 
 ## **📌 About Me**
