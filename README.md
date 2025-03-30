@@ -1,4 +1,5 @@
-<!-- Profile Header -->
+# **📌 Naman Upreti**  
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
@@ -42,44 +43,57 @@
 
 ## 🚀 **Tech Stack**  
 
-### 🌐 **Frontend**  
+### **📜 Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,redux,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,typescript" />
 </p>
 
-### ⚙️ **Backend**  
+### **🌐 Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,supabase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
 </p>
 
-### 🛢️ **Database**  
+### **⚙️ Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,supabase" />
+</p>
+
+### **🛢️ Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+### **☁️ Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions" />
+</p>
+
+### **🧠 AI & Machine Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats & Contribution**
+## 📊 **GitHub Stats**  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=tokyonight" />
+</p>
+
+### **📊 Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### **🏆 Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" />
 </p>
-
-### **🔥 GitHub Heatmap**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-upreti&theme=github_dark" />
-</p>
-
 ---
 
-## 💖 **Support Me**  
-If you enjoy my work, consider supporting me by **starring ⭐ my repositories** or **buying me a coffee!**  
-Your support fuels my passion for AI & NLP! 🚀  
+## **💖 Support Me**
+If you enjoy my work, consider supporting me by **starring ⭐ my repositories** or buying me a coffee! Your support fuels my passion for AI & NLP! 🚀  
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/naman-upreti" target="_blank">
@@ -87,17 +101,23 @@ Your support fuels my passion for AI & NLP! 🚀
   </a>
 </p>
 
----
-
 📌 **If you found my projects useful, don’t forget to give them a ⭐!**  
 
-### 🎯 **Profile Stats**  
+---
+
+### 🚀 **Let's Connect!**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naman-upreti&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>  
+  <a href="https://linkedin.com/in/naman-upreti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/naman-upreti" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/naman-upreti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <b>✨ Made with ❤️ & Passion by <a href="https://github.com/naman-upreti">Naman Upreti</a> 🚀</b>
-</p>
+✨ **Made with ❤️ & Passion by Naman Upreti** 🚀  
