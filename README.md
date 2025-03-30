@@ -117,13 +117,6 @@
 
 ---
 
-## 🐍 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/naman-upreti/naman-upreti/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 💖 **Support Me**
 If you enjoy my work, consider supporting me by **starring ⭐ my repositories** or buying me a coffee! Your support fuels my passion for AI & NLP! 🚀  
 
