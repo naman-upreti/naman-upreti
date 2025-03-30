@@ -2,40 +2,29 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual trigger
-  push:
-    branches:
-      - main  # Runs when pushing to main
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 📂 Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: 🛠️ Cache Dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache
-          key: ${{ runner.os }}-cache
-          restore-keys: |
-            ${{ runner.os }}-cache
-
-      - name: 🐍 Generate Contribution Snake
-        uses: Platane/snk@master
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3.1.0
         with:
           github_user_name: naman-upreti
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: 🚀 Push Changes
+      - name: Ensure dist/ Exists
+        run: mkdir -p dist  # Create dist/ folder if it doesn't exist
+
+      - name: Push Changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add dist/
-          git commit -m "🔄 Updated Contribution Snake" || exit 0
+          git commit -m "Updated Snake Contribution Graph" || exit 0
           git push
