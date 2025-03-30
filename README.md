@@ -1,11 +1,10 @@
-# **📌 Naman Upreti**  
-
+<!-- Profile Header -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Hey,+I'm+Naman!+👋;ML+%26+NLP+Developer;AI+Enthusiast;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F7B93E&center=true&vCenter=true&width=700&lines=🚀+Welcome+to+My+GitHub!;I'm+Naman+Upreti!+👋;AI+%26+ML+Developer;Data+Science+Explorer;AI-Driven+Software+Developer;Let's+Build+Something+Awesome!+🔥" />
 </h1>
 
 <p align="center">
@@ -17,7 +16,7 @@
 ## 📌 **About Me**
 <table>
   <tr>
-    <td>
+    <td width="60%">
       <ul>
         <li>🎓 <b>CSE | Data Science</b> at <b>New Horizon College of Engineering</b></li>
         <li>💡 Passionate about <b>AI-Driven Applications, NLP & Intelligent Systems</b></li>
@@ -33,7 +32,7 @@
         </li>
       </ul>
     </td>
-    <td align="center">
+    <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
     </td>
   </tr>
@@ -41,58 +40,91 @@
 
 ---
 
-## 🚀 **Tech Stack**  
+## 🚀 **Tech Stack**
+<table>
+  <tr>
+    <td align="center"><b>📜 Programming Languages</b></td>
+    <td align="center"><b>🌐 Frontend Development</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <abbr title="Python"><img src="https://skillicons.dev/icons?i=python" /></abbr>
+      <abbr title="C++"><img src="https://skillicons.dev/icons?i=cpp" /></abbr>
+      <abbr title="Java"><img src="https://skillicons.dev/icons?i=java" /></abbr>
+      <abbr title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></abbr>
+      <abbr title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" /></abbr>
+    </td>
+    <td align="center">
+      <abbr title="React"><img src="https://skillicons.dev/icons?i=react" /></abbr>
+      <abbr title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" /></abbr>
+      <abbr title="Redux"><img src="https://skillicons.dev/icons?i=redux" /></abbr>
+      <abbr title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></abbr>
+      <abbr title="Material-UI"><img src="https://skillicons.dev/icons?i=materialui" /></abbr>
+    </td>
+  </tr>
+</table>
 
-### **📜 Programming Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,typescript" />
-</p>
+<table>
+  <tr>
+    <td align="center"><b>⚙️ Backend Development</b></td>
+    <td align="center"><b>🛢️ Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <abbr title="Python"><img src="https://skillicons.dev/icons?i=python" /></abbr>
+      <abbr title="Django"><img src="https://skillicons.dev/icons?i=django" /></abbr>
+      <abbr title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></abbr>
+      <abbr title="Express.js"><img src="https://skillicons.dev/icons?i=express" /></abbr>
+      <abbr title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" /></abbr>
+    </td>
+    <td align="center">
+      <abbr title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></abbr>
+      <abbr title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" /></abbr>
+      <abbr title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" /></abbr>
+    </td>
+  </tr>
+</table>
 
-### **🌐 Frontend Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
-</p>
+---
 
-### **⚙️ Backend Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,supabase" />
-</p>
+## 📊 **GitHub Stats**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight" width="400px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=tokyonight" width="400px"/>
+    </td>
+  </tr>
+</table>
 
-### **🛢️ Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
-</p>
+---
 
-### **☁️ Cloud & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions" />
-</p>
+## **🏆 Contribution Graph & Heatmap**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" width="800px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=react-dark&hide_border=true" width="400px"/>
+    </td>
+  </tr>
+</table>
 
-### **🧠 AI & Machine Learning**
+---
+
+## 🐍 **GitHub Contribution Snake**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://github.com/naman-upreti/naman-upreti/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=tokyonight" />
-</p>
-
-### **📊 Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### **🏆 Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" />
-</p>
----
-
-## **💖 Support Me**
+## 💖 **Support Me**
 If you enjoy my work, consider supporting me by **starring ⭐ my repositories** or buying me a coffee! Your support fuels my passion for AI & NLP! 🚀  
 
 <p align="center">
@@ -103,21 +135,8 @@ If you enjoy my work, consider supporting me by **starring ⭐ my repositories**
 
 📌 **If you found my projects useful, don’t forget to give them a ⭐!**  
 
----
-
-### 🚀 **Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/naman-upreti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/naman-upreti" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/naman-upreti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=naman-upreti&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
----
-
-✨ **Made with ❤️ & Passion by Naman Upreti** 🚀  
+✨ **Made with ❤️ & Passion by Naman Upreti** 🚀
