@@ -14,6 +14,8 @@
 ---
 
 ## 📌 **About Me**
+👋 Hi there! I'm **Naman Upreti**, an **AI-Driven Software Developer** with a passion for **AI, ML, and Intelligent Systems**. I enjoy building cutting-edge solutions and exploring **Data Science, NLP, and Computer Vision**.  
+
 <table>
   <tr>
     <td width="60%">
@@ -41,6 +43,7 @@
 ---
 
 ## 🚀 **Tech Stack**
+<div style="overflow-x: auto;">
 <table>
   <tr>
     <td align="center"><b>📜 Programming Languages</b></td>
@@ -53,6 +56,7 @@
       <abbr title="Java"><img src="https://skillicons.dev/icons?i=java" /></abbr>
       <abbr title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></abbr>
       <abbr title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" /></abbr>
+      <abbr title="R"><img src="https://skillicons.dev/icons?i=r" /></abbr>
     </td>
     <td align="center">
       <abbr title="React"><img src="https://skillicons.dev/icons?i=react" /></abbr>
@@ -76,6 +80,7 @@
       <abbr title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></abbr>
       <abbr title="Express.js"><img src="https://skillicons.dev/icons?i=express" /></abbr>
       <abbr title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" /></abbr>
+      <abbr title="Streamlit"><img src="https://skillicons.dev/icons?i=streamlit" /></abbr>
     </td>
     <td align="center">
       <abbr title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></abbr>
@@ -84,36 +89,24 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## 📊 **GitHub Stats**
+<div style="overflow-x: auto;">
 <table>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight" width="400px"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-upreti&theme=tokyonight" width="400px"/>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-upreti&theme=tokyonight" width="800px"/>
     </td>
   </tr>
 </table>
-
----
-
-## **🏆 Contribution Graph & Heatmap**
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-upreti&theme=react-dark&hide_border=true" width="800px"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=react-dark&hide_border=true" width="400px"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -132,4 +125,4 @@ If you enjoy my work, consider supporting me by **starring ⭐ my repositories**
   <img src="https://komarev.com/ghpvc/?username=naman-upreti&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-✨ **Made with ❤️ & Passion by Naman Upreti** 🚀
+✨ **Made with ❤️ & Passion by Naman Upreti** 🚀  
