@@ -94,11 +94,16 @@
 ---
 
 ## 📊 **GitHub Stats**
+
 <div style="overflow-x: auto;">
 <table>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=naman-upreti&show_icons=true&theme=tokyonight" width="400px"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-upreti&layout=compact&theme=tokyonight" width="400px"/>
+    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
