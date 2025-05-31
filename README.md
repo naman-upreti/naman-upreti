@@ -110,5 +110,4 @@
   <a href="https://www.linkedin.com/in/naman-upreti/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:namanupreti.official@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://twitter.com/naman_upreti"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://namanupreti.dev"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 </p>
