@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+      <img src="https://skillicons.dev/icons?i=python,r,c" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
@@ -66,7 +66,12 @@
       <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,streamlit,postman" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,pandas,numpy,opencv" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -86,10 +91,10 @@
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tableau" />
-      <img src="https://skillicons.dev/icons?i=seaborn" />
-      <img src="https://skillicons.dev/icons?i=matplotlib" />
-      <img src="https://skillicons.dev/icons?i=plotly" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -108,6 +113,5 @@
 ## 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/naman-upreti/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:namanupreti.official@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/naman_upreti"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:namanupreti02@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
