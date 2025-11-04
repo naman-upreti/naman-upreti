@@ -13,18 +13,15 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake SVG
-        uses: Platane/snk@v3.1.0
+        uses: Platane/snk@v3
         with:
           github_user_name: naman-upreti
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Ensure dist/ Exists
-        run: mkdir -p dist  # Create dist/ folder if it doesn't exist
-
-      - name: Push Changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add dist/
-          git commit -m "Updated Snake Contribution Graph" || exit 0
-          git push
+      - name: Push Snake Animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
