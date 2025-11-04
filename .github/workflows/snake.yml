@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: 🐍 Generate Colored Snake Contribution Graph
 
 on:
   schedule:
@@ -7,18 +7,23 @@ on:
 
 jobs:
   build:
+    name: Build Snake Animation
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
+      - name: 🧩 Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: 🐍 Generate Snake SVG with Custom Neon Colors
         uses: Platane/snk@v3
         with:
           github_user_name: naman-upreti
           outputs: dist/github-contribution-grid-snake.svg
+          # 🎨 Custom color settings for neon effect
+          color_snake: "#00FFFF"  # Bright cyan snake color
+          color_dots: "#0D1117,#00FF9C,#00C0FF,#FF00E6,#FF4500" # Dark → Neon Green → Blue → Pink → Orange
 
-      - name: Push Snake Animation to output branch
+      - name: 🚀 Deploy Snake Animation to 'output' Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
