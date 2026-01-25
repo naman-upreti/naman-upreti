@@ -22,6 +22,11 @@ I love crafting intelligent applications that blend **reasoning, automation, and
 
 💡 *Currently exploring how to scale LLMs and RAGs for real-world AI systems.*
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-blue?style=for-the-badge&logo=google-chrome)](https://namanupreti.netlify.app/))
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:namanupreti02@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-green?style=for-the-badge&logo=adobeacrobat)](https://github.com/naman-upreti/naman_port_live/raw/main/public/Naman_Upreti_cv.pdf)
+
 ---
 
 ## 🚀 **What I Do**
